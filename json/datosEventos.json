@@ -1,0 +1,129 @@
+[
+		{
+			"ciudad": "Puerto Montt", 
+			"donde": "Plaza de Armas de Puerto Montt", 
+			"fecha": "2018-12-03 10:15:00",
+			"url": "https://www.google.cl/maps/place/Plaza+de+Armas+de+Puerto+Montt/@-41.4718097,-72.9395789,15z/data=!4m2!3m1!1s0x0:0x380d8e1b3ceaad63?ved=2ahUKEwjT-ZjG6-DeAhVLIZAKHc8aB3sQ_BIwDnoECAYQCA"
+		},
+		{
+			"ciudad": "Frutillar", 
+			"donde": "Plaza Alcalde Carlos Springer", 
+			"fecha": "2018-12-03 14:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+De+Armas/@-41.1257602,-73.0626095,17z/data=!4m12!1m6!3m5!1s0x961792993ab10b83:0x2fc9578e6a5c9064!2sPlaza+De+Armas!8m2!3d-41.1257643!4d-73.0604208!3m4!1s0x961792993ab10b83:0x2fc9578e6a5c9064!8m2!3d-41.1257643!4d-73.0604208"
+		},{
+			"ciudad": "Puerto Octay", 
+			"donde": "Plaza de Armas de Puerto Octay", 
+			"fecha": "2018-12-03 18:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+De+Puerto+Octay/@-40.9735538,-72.8825454,16.63z/data=!4m8!1m2!2m1!1splaza+de+armas+puerto+octay!3m4!1s0x0:0x11d9d1545749b8f7!8m2!3d-40.972685!4d-72.8841671"
+		},{
+			"ciudad": "Osorno", 
+			"donde": "Plaza de Armas de Osorno", 
+			"fecha": "2018-12-04 10:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+de+Armas+de+Osorno/@-40.5738321,-73.1379396,17z/data=!4m12!1m6!3m5!1s0x9616366c518cbfbd:0x68e46cc69257c7c7!2sPlaza+de+Armas+de+Osorno!8m2!3d-40.5738362!4d-73.1357509!3m4!1s0x9616366c518cbfbd:0x68e46cc69257c7c7!8m2!3d-40.5738362!4d-73.1357509"
+		},{
+			"ciudad": "San Pablo", 
+			"donde": "Plaza de Armas de San Pablo", 
+			"fecha": "2018-12-04 14:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+San+Pablo/@-40.4142156,-73.012943,17z/data=!4m8!1m2!2m1!1sPlaza+de+Armas+de+San+Pablo,+chile!3m4!1s0x9616418615c19101:0x5dd38ab7d6c24eb5!8m2!3d-40.4127884!4d-73.0114768"
+		},{
+			"ciudad": "La Unión", 
+			"donde": "Plaza de Armas de La Unión", 
+			"fecha": "2018-12-04 80:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+la+Uni%C3%B3n/@-40.2968835,-73.0817808,17.08z/data=!4m8!1m2!2m1!1sPlaza+de+Armas+de+La+Uni%C3%B3n!3m4!1s0x0:0xeb761360034fd473!8m2!3d-40.2951409!4d-73.0821256"
+		},{
+			"ciudad": "Futrono", 
+			"donde": "Plaza de Armas de Futrono", 
+			"fecha": "2018-12-05 10:15:00",
+			"url": "https://www.google.com/maps/search/Plaza+de+Armas+de+Futrono/@-40.1318013,-72.3906846,18.54z"
+		},{
+			"ciudad": "Valdivia", 
+			"donde": "Plaza de la República frente a la Intendencia de Los Ríos", 
+			"fecha": "2018-12-05 18:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+de+la+Republica/@-39.8141973,-73.2481018,17z/data=!4m12!1m6!3m5!1s0x9615ee766ca4c18b:0x4f5626b74cc243a!2sPlaza+de+la+Republica!8m2!3d-39.8142014!4d-73.2459131!3m4!1s0x9615ee766ca4c18b:0x4f5626b74cc243a!8m2!3d-39.8142014!4d-73.2459131"
+		},{
+			"ciudad": "San José de la Mariquina", 
+			"donde": "Peatonal Padre Plácido (Frontis Catedral)", 
+			"fecha": "2018-12-06 09:45:00",
+			"url": "https://www.google.com/maps/place/Iglesia+ACyM+San+Jos%C3%A9+de+la+Mariquina/@-39.539043,-72.9569511,16.79z/data=!4m8!1m2!2m1!1scatedral,+san+jose+de+la+mariquina!3m4!1s0x0:0xecec1bc0b1629533!8m2!3d-39.538612!4d-72.956855"
+		},{
+			"ciudad": "Villarica", 
+			"donde": "Explanada Plaza Consistorial de Villarica", 
+			"fecha": "2018-12-06 14:15:00",
+			"url": "https://www.google.com/maps/place/Ilustre+Municipalidad+de+Villarrica/@-39.2833733,-72.2265092,16.9z/data=!4m13!1m7!3m6!1s0x96146225158a5859:0x213c3d63298412a1!2sGral+Korner,+Villarrica,+Regi%C3%B3n+de+la+Araucan%C3%ADa!3b1!8m2!3d-39.2842036!4d-72.2260192!3m4!1s0x961462251bd01b17:0x786306a4116bdf85!8m2!3d-39.2836302!4d-72.2264305"
+		},{
+			"ciudad": "Temuco", 
+			"donde": "Parque Isla Cautín", 
+			"fecha": "2018-12-06 18:15:00",
+			"url": "https://www.google.com/maps/place/Parque+Isla+Caut%C3%ADn/@-38.7469672,-72.6014285,17z/data=!4m12!1m6!3m5!1s0x9614d15f251ff09b:0x9529f3a3a7e7bf4a!2sParque+Isla+Caut%C3%ADn!8m2!3d-38.7469714!4d-72.5992398!3m4!1s0x9614d15f251ff09b:0x9529f3a3a7e7bf4a!8m2!3d-38.7469714!4d-72.5992398"
+		},{
+			"ciudad": "Nueva Imperial", 
+			"donde": "Estacionamiento Municipal ubicado en la Calle Arturo Prat esquina Pinto", 
+			"fecha": "2018-12-07 10:45:00",
+			"url": "https://www.google.com/maps/place/Municipalidad+de+Nueva+Imperial/@-38.742662,-72.9537114,18z/data=!4m12!1m6!3m5!1s0x96153319212e0efd:0xce52cec13dacf272!2sMunicipalidad+de+Nueva+Imperial!8m2!3d-38.7422538!4d-72.9530945!3m4!1s0x96153319212e0efd:0xce52cec13dacf272!8m2!3d-38.7422538!4d-72.9530945"
+		},{
+			"ciudad": "Carahue", 
+			"donde": "Plaza de Armas de Carahue", 
+			"fecha": "2018-12-07 14:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+de+Armas/@-38.7115496,-73.1674114,17z/data=!4m12!1m6!3m5!1s0x966ab489920162d3:0xfd06fafe6a2568f1!2sPlaza+de+Armas!8m2!3d-38.7115538!4d-73.1652227!3m4!1s0x966ab489920162d3:0xfd06fafe6a2568f1!8m2!3d-38.7115538!4d-73.1652227"
+		},{
+			"ciudad": "Puerto Saavedra", 
+			"donde": "Plaza Arturo Prat, Frontis Municipio", 
+			"fecha": "2018-12-07 17:45:00",
+			"url": "https://www.google.com/maps/place/Municipalidad+de+Saavedra/@-38.7925637,-73.3975563,17z/data=!4m12!1m6!3m5!1s0x961554c835851c47:0x56c452e5a7739046!2sMunicipalidad+de+Saavedra!8m2!3d-38.7925679!4d-73.3953676!3m4!1s0x961554c835851c47:0x56c452e5a7739046!8m2!3d-38.7925679!4d-73.3953676"
+		},{
+			"ciudad": "Angol", 
+			"donde": "Parque Vergara", 
+			"fecha": "2018-12-08 11:15:00",
+			"url": "https://www.google.com/maps/place/Parque+Vergara/@-37.8022261,-72.7069891,17z/data=!4m12!1m6!3m5!1s0x966bb335e9a37aa7:0xb3091ab7bc4282a0!2sParque+Vergara!8m2!3d-37.8022304!4d-72.7048004!3m4!1s0x966bb335e9a37aa7:0xb3091ab7bc4282a0!8m2!3d-37.8022304!4d-72.7048004"
+		},{
+			"ciudad": "Cañete", 
+			"donde": "Complejo Deportivo Municipal La Granja", 
+			"fecha": "2018-12-08 17:15:00",
+			"url": "https://www.google.com/maps/place/Complejo+Deportivo+La+Granja/@-37.7762775,-73.38344,17z/data=!4m12!1m6!3m5!1s0x966a0b67ecdbfb59:0xe8495ab3afd9976!2sComplejo+Deportivo+La+Granja!8m2!3d-37.7762818!4d-73.3812513!3m4!1s0x966a0b67ecdbfb59:0xe8495ab3afd9976!8m2!3d-37.7762818!4d-73.3812513"
+		},{
+			"ciudad": "Coronel", 
+			"donde": "Estadio Municipal Federico Schwager", 
+			"fecha": "2018-12-09 11:15:00",
+			"url": "https://www.google.com/maps/place/Estadio+Municipal+de+Coronel+Federico+Schwager/@-37.0078657,-73.1725787,17z/data=!4m12!1m6!3m5!1s0x9669c6bab541e669:0x838ae819f9aec798!2sEstadio+Municipal+de+Coronel+Federico+Schwager!8m2!3d-37.00787!4d-73.17039!3m4!1s0x9669c6bab541e669:0x838ae819f9aec798!8m2!3d-37.00787!4d-73.17039"
+		},{
+			"ciudad": "Concepción", 
+			"donde": "Plaza de la Independencia", 
+			"fecha": "2018-12-09 17:15:00",
+			"url": "https://www.google.com/maps/place/Concepci%C3%B3n+Plaza+Independencia/@-36.8277117,-73.0520967,17z/data=!4m12!1m6!3m5!1s0x9669b5d0f7080943:0x9388a850ce8442c!2sConcepci%C3%B3n+Plaza+Independencia!8m2!3d-36.827716!4d-73.049908!3m4!1s0x9669b5d0f7080943:0x9388a850ce8442c!8m2!3d-36.827716!4d-73.049908"
+		},{
+			"ciudad": "Dichato", 
+			"donde": "Explanada Costanera, Plaza de la Ciudadanía", 
+			"fecha": "2018-12-10 11:15:00",
+			"url": "https://www.google.com/maps/place/Dichato/@-36.5432459,-72.9341757,15.79z/data=!4m8!1m2!2m1!1smunicipalidad+Dichato!3m4!1s0x0:0xa96552d2ac81db6!8m2!3d-36.5440616!4d-72.9308107"
+		},{
+			"ciudad": "Talcahuano", 
+			"donde": "Coliseo Municipal “La Tortuga”, Calle Blanco Encalada 1142", 
+			"fecha": "2018-12-10 17:15:00",
+			"url": "https://www.google.com/maps/place/Blanco+Encalada+1142,+Talcahuano,+Regi%C3%B3n+del+B%C3%ADo+B%C3%ADo/@-36.7202083,-73.1109911,17z/data=!4m13!1m7!3m6!1s0x9668357503e6c1b3:0xaa532819b135905f!2sBlanco+Encalada+1142,+Talcahuano,+Regi%C3%B3n+del+B%C3%ADo+B%C3%ADo!3b1!8m2!3d-36.7202126!4d-73.1088024!3m4!1s0x9668357503e6c1b3:0xaa532819b135905f!8m2!3d-36.7202126!4d-73.1088024"
+		},{
+			"ciudad": "Chillán", 
+			"donde": "Plaza de Armas de Chillán frontis Intendencia Regional", 
+			"fecha": "2018-12-11 10:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+de+Armas+de+Chill%C3%A1n/@-36.6067154,-72.1055152,17z/data=!4m12!1m6!3m5!1s0x9668d7d7adad289d:0x6bc898701d5885c4!2sPlaza+de+Armas+de+Chill%C3%A1n!8m2!3d-36.6067197!4d-72.1033265!3m4!1s0x9668d7d7adad289d:0x6bc898701d5885c4!8m2!3d-36.6067197!4d-72.1033265"
+		},{
+			"ciudad": "Parral", 
+			"donde": "Estadio Municipal Nelsón Valenzuela Rojas", 
+			"fecha": "2018-12-11 14:15:00",
+			"url": "https://www.google.com/maps/place/Estadio+Municipal+Nelson+Valenzuela+Rojas/@-36.1496064,-71.8238403,17z/data=!4m12!1m6!3m5!1s0x966f493275a1c8b5:0xec2335d3671387f!2sEstadio+Municipal+Nelson+Valenzuela+Rojas!8m2!3d-36.1496108!4d-71.8216516!3m4!1s0x966f493275a1c8b5:0xec2335d3671387f!8m2!3d-36.1496108!4d-71.8216516"
+		},{
+			"ciudad": "Linares", 
+			"donde": "Estadio Fiscal, Calle Rengo", 
+			"fecha": "2018-12-11 18:15:00",
+			"url": "https://www.google.com/maps/place/Estadio+Fiscal+de+Linares/@-35.855444,-71.5930778,17z/data=!4m12!1m6!3m5!1s0x9665f55f374d745d:0xa215da8ec3b2b5a2!2sEstadio+Fiscal+de+Linares+Tucapel+Bustamante!8m2!3d-35.8554484!4d-71.5908891!3m4!1s0x0:0xfdf4a34a4665c200!8m2!3d-35.8544521!4d-71.5900207"
+		},{
+			"ciudad": "Constitución", 
+			"donde": "Plaza de Armas Constitución", 
+			"fecha": "2018-12-12 11:15:00",
+			"url": "https://www.google.com/maps/place/Plaza+de+Armas/@-35.33159,-72.4142572,17z/data=!4m12!1m6!3m5!1s0x96665f39919bbb53:0x9374026b8be55f0f!2sPlaza+de+Armas!8m2!3d-35.3315944!4d-72.4120685!3m4!1s0x96665f39919bbb53:0x9374026b8be55f0f!8m2!3d-35.3315944!4d-72.4120685"
+		},{
+			"ciudad": "Talca", 
+			"donde": "Parque Estero Piduco", 
+			"fecha": "2018-12-12 17:15:00",
+			"url": "https://www.google.com/maps/place/Parque+Costanera,+Talca,+Regi%C3%B3n+del+Maule/@-35.4369057,-71.6656996,16z/data=!4m13!1m7!3m6!1s0x9665c6a8ccb66125:0x70de5c0a9c820b30!2sParque+Costanera,+Talca,+Regi%C3%B3n+del+Maule!3b1!8m2!3d-35.4369238!4d-71.6615877!3m4!1s0x9665c6a8ccb66125:0x70de5c0a9c820b30!8m2!3d-35.4369238!4d-71.6615877"
+		}
+		]
